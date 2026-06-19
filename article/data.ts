@@ -1,7 +1,7 @@
 export const project = {
   title: "Article Harness",
-  githubUrl: "",
-  githubLabel: "GitHub：待上传",
+  githubUrl: "https://github.com/part33/-skills",
+  githubLabel: "GitHub：part33/-skills",
   summary:
     "一个 Markdown-first 的通用文章生成工作流，把零散素材稳定转成结构化主稿和可分享网页文章。",
   stack: ["React", "TypeScript", "Vite", "Markdown", "HTML"],
